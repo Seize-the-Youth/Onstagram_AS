@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "600420833249",
+    "project_id": "onstagram-3b81b",
+    "storage_bucket": "onstagram-3b81b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600420833249:android:0902bb6391de6eba53e4a0",
+        "android_client_info": {
+          "package_name": "com.example.onstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600420833249-lgee2muinl15arg6b2d2rtcg7sdmflil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Wx3KyY5BKnCgkypfalPIUK3Xi-4GFrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600420833249-lgee2muinl15arg6b2d2rtcg7sdmflil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
